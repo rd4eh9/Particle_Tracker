@@ -1,4 +1,5 @@
 # use this tracker algorithm https://github.com/lushank1/Marker_detection_and_tracking 
+# https://soft-matter.github.io/trackpy/v0.6.4/
 # Steps:
 #import images into array --> parse from video
 #identify particles
